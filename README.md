@@ -1,9 +1,6 @@
 
 Desafio 01 - Conceitos do React
 
-## Tópicos 
-
-
 <br>
 
 ## Sobre o desafio
